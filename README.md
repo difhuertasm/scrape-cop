@@ -14,7 +14,7 @@ Requisitos
 1. .NET Framework o .NET Core / .NET 5+ (versión usada: Microsoft Visual Studio Community 2019
 Versión 16.11.51)
 2. Biblioteca Html Agility Pack
-3.Puede instalar Html Agility Pack vía NuGet mediante:
+3. Puede instalar Html Agility Pack vía NuGet mediante:
 
 Install-Package HtmlAgilityPack
 
