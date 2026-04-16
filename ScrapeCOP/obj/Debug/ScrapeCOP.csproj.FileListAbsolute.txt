@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\obj\Debug\ScrapeCOP.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\obj\Debug\WebScrapping1.Form1.resources
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\obj\Debug\ScrapeCOP.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\obj\Debug\ScrapeCOP.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\obj\Debug\ScrapeCOP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\bin\Debug\ScrapeCOP.exe.config
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\bin\Debug\ScrapeCOP.exe
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\bin\Debug\ScrapeCOP.pdb
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\obj\Debug\ScrapeCOP.csproj.CopyComplete
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\obj\Debug\ScrapeCOP.exe
+C:\Users\Usuario\source\repos\ScrapeCOP\ScrapeCOP\obj\Debug\ScrapeCOP.pdb
