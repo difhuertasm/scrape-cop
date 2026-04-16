@@ -23,6 +23,7 @@ o usando la consola de administrador de paquetes en Visual Studio.
 Uso
 
 1. Abre el proyecto en Visual Studio.
+   
 2.Restaurar los paquetes NuGet: haz clic derecho sobre la solución "ScrapeCop" en la sección "Explorador de soluciones" y selecciona "Administrar paquetes NuGet para la solución". Luego, busca "Html Agility Pack" e instala el paquete en el proyecto correspondiente. 
 
 Ejecuta la aplicación.
